@@ -1,7 +1,7 @@
 const home = () => {
     return (
-    <h1>Minha primeira pagina após ficar enferrujado 2</h1>
-)
+    <h1>Minha primeira pagina após ficar enferrujado</h1>
+);
 }
 
 export default home;
